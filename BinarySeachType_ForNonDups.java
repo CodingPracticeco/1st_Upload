@@ -1,5 +1,3 @@
-package Derek_Banas_Java_Algorithms;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
